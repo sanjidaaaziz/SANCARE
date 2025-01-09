@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Face Mask",
+    "image": "💆‍♀️",
+    "from": "Spain",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "100ml",
+    "price": "15",
+    "organic": true,
+    "description": "Ultimate Nourishing Rice Overnight Spa Mask hydrates and nourishes skin while you sleep. Made with 65% rice extract, this naturally anti-aging mask provides a gentle yet effective formula to brighten and even skin tone."
+  },
+  {
+    "id": 1,
+    "productName": "Lip Therapy",
+    "image": "💋",
+    "from": "Portugal",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "10ps",
+    "price": "10",
+    "organic": false,
+    "description": "Vaseline® Lip Therapy® is a complete range of comforting lip balms to help calm, soothe and instantly moisturize dry lips. Blended with a combination of petroleum jelly alongside a curated blend of trusted, lip-loving ingredients, Vaseline® Lip Therapy® is available in several variants to suit all skin types."
+  },
+  {
+    "id": 2,
+    "productName": "Hair Serum",
+    "image": "🙆‍♀️",
+    "from": "UK",
+    "nutrients": "Glycerin, Peptide",
+    "quantity": "60ml",
+    "price": "20",
+    "organic": true,
+    "description": "Multi-Peptide Serum for Hair Density is a concentrated leave-in formula designed to support the scalp and give you thicker, denser, fuller-looking hair. The formula is lightweight and offers a combination of peptide technologies alongside a series of plant-based extracts. This formula contains REDENSYL™, Procapil™, CAPIXYL™, BAICAPIL™, AnaGain™, and High-Solubility Caffeine."
+  },
+  {
+    "id": 3,
+    "productName": "Hand Cream",
+    "image": "👐",
+    "from": "France",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "20ml",
+    "price": "12",
+    "organic": true,
+    "description": "Experience the tender touch of our Perfume Hand Cream, a luxurious blend designed to deeply moisturize and protect your hands. Its rich formula infuses your skin with lasting hydration and a gentle aroma, ensuring your hands feel soft, smooth, and refreshed throughout the day. Perfect for daily use, this cream is your ally against dryness, leaving an enchanting scent that lingers."
+  },
+  {
+    "id": 4,
+    "productName": "Moisturizer",
+    "image": "🧴",
+    "from": "Germany",
+    "nutrients": "Red Bean, Hyaluronic Acid;",
+    "quantity": "150ml",
+    "price": "25",
+    "organic": false,
+    "description": "This Red Bean Water Gel offers refreshing hydration and sebum control for oily skin with active sebum secretion. Infused with 44% haenam red bean extract rich in saponin that effectively absorbs excessive sebum. While peptide complex helps maintain optimal level of skin growth factors and improves wrinkles for healthy, youthful skin express."
+  }
+]
