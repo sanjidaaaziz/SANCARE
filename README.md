@@ -5,7 +5,13 @@ A basic e-commerce website for showcasing and selling skincare products, built u
 
 ![Screenshot_4](https://github.com/user-attachments/assets/1cbbe961-ad49-483d-97a1-5bf6db826728)
 
-## Product Details page
+## Product Detail
 
-![Screenshot_3](https://github.com/user-attachments/assets/e43de4df-2e37-4356-bd9a-8d48f9e8327f)
+![Screenshot_5](https://github.com/user-attachments/assets/fed89857-9970-40a5-8170-8ff26fb26747)
+
+
+
+
+
+
 
