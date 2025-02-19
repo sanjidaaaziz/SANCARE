@@ -19,4 +19,4 @@ A basic e-commerce website for showcasing and selling skincare products, built u
 + Once the server is running, open your browser and enter the address:
 **_http://127.0.0.1:8000_**
 
-## Visit the live demo: https://sancare.onrender.com/
+## Visit the live demo: https://sancare.onrender.com
